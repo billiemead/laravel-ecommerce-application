@@ -10,3 +10,15 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+.idea
+/public/backend
+/public/frontend
+/public/uploads
+/.vscode
+/.vagrant
+.idea/
+updates/
+.env.*.php
+.env.php
+.env
+.DS_Store
